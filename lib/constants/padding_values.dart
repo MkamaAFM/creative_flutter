@@ -1,3 +1,5 @@
+part of 'constants.dart';
+
 class CreativePaddingValues {
   static const mobile = 16.0;
   static const tablet = 24.0;

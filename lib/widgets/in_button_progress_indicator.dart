@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of 'widgets.dart';
 
 class InButtonProgressIndicator extends StatelessWidget {
   final double size;

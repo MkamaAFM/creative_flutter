@@ -1,6 +1,4 @@
-import 'package:creative_flutter/constants/padding_values.dart';
-import 'package:creative_flutter/widgets/responsive_widget.dart';
-import 'package:flutter/material.dart';
+part of 'widgets.dart';
 
 class CreativePadding extends StatelessWidget {
   final Widget child;

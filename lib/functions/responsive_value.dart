@@ -1,5 +1,4 @@
-import 'package:creative_flutter/constants/screen_breakpoints.dart';
-import 'package:flutter/material.dart';
+part of 'functions.dart';
 
 class CreativeResponsiveValue<T> {
   final T _mobile, _tablet, _desktop;

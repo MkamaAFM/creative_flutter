@@ -1,5 +1,4 @@
-import 'package:creative_flutter/constants/screen_breakpoints.dart';
-import 'package:flutter/material.dart';
+part of 'widgets.dart';
 
 class CreativeResponsiveWidget extends StatelessWidget {
   final bool useLayoutBuilder;
